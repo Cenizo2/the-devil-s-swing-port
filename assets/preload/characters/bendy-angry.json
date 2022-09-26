@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bendy Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-153,
+				-196
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "BENDY RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				268,
+				-81
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "BENDY LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-86
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "BENDY DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				48
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "BENDY UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-139,
+				-341
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scream",
+			"loop": true,
+			"name": "SCREAM"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BENDY",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bendy-angry",
+	"flip_x": false,
+	"healthbar_colors": [
+		202,
+		157,
+		62
+	],
+	"camera_position": [
+		-250,
+		-120
+	],
+	"sing_duration": 2.8,
+	"scale": 1
+}

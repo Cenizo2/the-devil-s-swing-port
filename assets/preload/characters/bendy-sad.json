@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bendy Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				624
+			],
+			"anim": "transformation",
+			"fps": 24,
+			"name": "TRANSFORMATION",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				199,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "BENDY LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "BENDY DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				5
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "BENDY UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-33
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "BENDY RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BEDY_SAD",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bendy-normal",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		187,
+		91
+	],
+	"camera_position": [
+		-200,
+		60
+	],
+	"sing_duration": 2.8,
+	"scale": 1
+}
