@@ -1,0 +1,149 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "InkFinalStage",
+		"player1": "bf-zero",
+		"player2": "bendy",
+		"player3": null,
+		"events": [
+			[
+				24000,
+				[
+					[
+						"Camera Follow Pos",
+						"1700",
+						"1100"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Camera Follow Pos",
+						"1700",
+						"1100"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Camera Follow Pos",
+						"1700",
+						"1100"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Camera Follow Pos",
+						"1700",
+						"1100"
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				177600,
+				[
+					[
+						"Camera Follow Pos",
+						"1700",
+						"1100"
+					]
+				]
+			],
+			[
+				190800,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				206400,
+				[
+					[
+						"Camera Follow Pos",
+						"1700",
+						"1100"
+					]
+				]
+			],
+			[
+				211200,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267600,
+				[
+					[
+						"Camera Follow Pos",
+						"1700",
+						"1100"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Doomsday Reel"
+	}
+}
