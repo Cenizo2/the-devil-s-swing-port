@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "BendyNormalStage",
+		"player1": "bf-zero",
+		"player2": "bendy-sad",
+		"player3": null,
+		"events": [
+			[
+				113534.482758621,
+				[
+					[
+						"Play Animation",
+						"transformation",
+						"bendy-sad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 116,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Redemption"
+	}
+}
