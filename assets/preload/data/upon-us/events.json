@@ -1,0 +1,129 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "InkStage",
+		"player1": "bf-zero",
+		"player2": "bendy",
+		"player3": null,
+		"events": [
+			[
+				42352.9411764706,
+				[
+					[
+						"Camera Follow Pos",
+						"1700",
+						"1100"
+					]
+				]
+			],
+			[
+				45088.2352941176,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				45176.4705882353,
+				[
+					[
+						"Change Scroll Speed",
+						"1.10",
+						"1"
+					]
+				]
+			],
+			[
+				73411.7647058823,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				73588.2352941176,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				73764.7058823528,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				73941.1764705882,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				75882.3529411764,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				77647.0588235293,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				78176.4705882352,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				180705.882352941,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Upon Us"
+	}
+}
